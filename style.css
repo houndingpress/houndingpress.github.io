@@ -1,0 +1,38 @@
+h1 {
+    background-color: brown;
+    color: beige;
+    padding: 20px;
+}
+a {
+    color:aquamarine;
+    text-decoration: none;
+}
+a:hover {
+    color:brown;
+    text-decoration: underline;
+}
+img {
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 70%
+}
+
+th,td {
+    border: 1px solid black;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: cadetblue;
+    color: crimson;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
